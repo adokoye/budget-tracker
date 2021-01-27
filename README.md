@@ -18,6 +18,8 @@
    Make sure you have MongoDB installed on your machine (if you don't, follow the instructions on the MongoDB Website). Clone the repo. Install dependencies with npm -i. Run ```npm start``` to run the server. 
 
 
+The URL of the functional, deployed application (https://infinite-peak-97491.herokuapp.com/) 
+
 
 ## Technologies
   - JavaScript
